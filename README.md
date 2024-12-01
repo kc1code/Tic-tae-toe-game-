@@ -47,9 +47,7 @@ Copy code
 ├── tic_tac_toe.cpp   # Main source code file
 ├── README.md         # Project documentation
 
-**Example Output 📟**
-yaml
-Copy code
+**Example:**
 Enter the name of the first player: Alice
 Enter the name of the second player: Bob
 Alice is Player 1 (X), so they will play first.
@@ -76,6 +74,7 @@ _____|_____|_____
   7  |  8  |  9  
      |     |     
 Bob, please enter a position (1-9): 1
+
 
 **Improvements & Future Features 🔮**
 1. Add a single-player mode with AI.
